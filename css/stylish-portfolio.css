@@ -41,13 +41,13 @@ body {
 .btn-dark:focus,
 .btn-dark:active {
     color: #fff;
-    background-color: rgb(255,255,255);
+    background-color: rgba(25, 107, 0, 0.65);
 }
 
 .btn-light {
     border-radius: 0;
     color: #333;
-    background-color: rgba(91, 255, 83, 0.65);
+    background-color: rgb(255,255,255);
 }
 
 .btn-light:hover,
