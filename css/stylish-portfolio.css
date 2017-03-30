@@ -224,10 +224,8 @@ hr.small {
 /* Tacos */
 
 .tacos {
-	background-color: rgba(0, 0, 0, 0.24);
 	padding: 15px 0px 15px 0px;
-	margin: 10% 10% 10% 10%;
-	border-radius: 5px;
+	margin: 5% 10% 100% 10%;
 }
 
 .btn {
